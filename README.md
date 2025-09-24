@@ -1,5 +1,5 @@
-# Create a downloadable README.md file with the requested content
-readme_content = """# Entrega — Actividades de Testing (Pág. 13, 14 y 15)
+
+# Entrega — Actividades de Testing (Pág. 13, 14 y 15)
 
 Este repositorio contiene tres actividades prácticas de **Técnicas de Testing de Software**:
 
